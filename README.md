@@ -92,18 +92,6 @@ nam
 
 This should open the NAM GUI.
 
-#### c) Test Gedit (Optional)
-
-If you’ve installed a text editor like Gedit or GNOME Text Editor, verify it by running:
-
-```bash
-gedit
-```
-
-This should open the text editor.
-
----
-
 ## Additional Notes
 
 - **Package Installation Errors:** If you encounter errors during the installation, try running:
