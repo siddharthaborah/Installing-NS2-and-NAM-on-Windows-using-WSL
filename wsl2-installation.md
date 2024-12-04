@@ -17,3 +17,5 @@ wsl --update
 wsl --set-default-version 2
 wsl --list --verbose
 wsl --install -d <DistroName>
+wsl --install -d Ubuntu
+
