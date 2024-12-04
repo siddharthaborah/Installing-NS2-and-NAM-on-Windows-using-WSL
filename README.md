@@ -8,7 +8,7 @@ This guide provides step-by-step instructions to install **NS2** and **NAM** on 
 ## Prerequisites
 
 Before you begin, ensure you have **WSL** installed with an Ubuntu distribution.  
-If WSL is not yet set up, refer to [this blog post](https://dev.to/thisisharsh7/setting-up-wsl-in-windows-10-and-above-329b) for guidance.
+For detailed instructions on installing WSL2, check out [this guide](wsl2-installation.md).
 
 ---
 
