@@ -1,5 +1,5 @@
 
-# Installing NS2 and NAM on Windows using WSL
+# Installing NS2 and NAM on Windows using Windows Subsystem for Linux (WSL)
 
 This guide provides step-by-step instructions to install **NS2** and **NAM** on a Windows machine using **Windows Subsystem for Linux (WSL)**.
 
